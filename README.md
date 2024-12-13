@@ -30,7 +30,7 @@ This is a dynamic, interactive File Explorer component built with React. It prov
 
 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/react-file-explorer.git](https://github.com/ashishharswal-dev/File-Structure.git)
+git clone https://github.com/ashishharswal-dev/File-Structure.git
 ```
 
 2. Install dependencies
